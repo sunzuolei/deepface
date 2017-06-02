@@ -15,7 +15,7 @@ Description
 -------------
 Data Pre-processing
 
- 1. Download "Matconvnet" and config it with VS conpiler.
+ 1. Download "Matconvnet" and config it with VS compiler.
  2. Download face dataset such as  imdb.mat.
 
 Training
